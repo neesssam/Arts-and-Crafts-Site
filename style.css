@@ -1,0 +1,45 @@
+*{
+    font-family: Helvetica;
+}
+
+.price{
+    font-weight: bold;
+    color: blue;
+ }
+#header {
+    text-align: center;
+    font-size: 60px;
+    font-weight: bold;
+    color: khaki;
+    height: 200px;
+    background-image: url("pattern.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+#brushes{
+    background-color: mediumspringgreen;
+    padding-left: 5px;
+    color: white;
+    font-size: 32px;
+    
+  }
+ 
+ #frames{
+    background-color: lightcoral;
+    padding-left: 5px;
+    color: white;
+    font-size: 32px;
+ }
+ #paint{
+    background-color: lightblue;
+    padding-left: 5px;
+    color: white;
+    font-size: 32px;
+ }
+  
+  
